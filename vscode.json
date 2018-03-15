@@ -1,0 +1,43 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Monaco",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "diffEditor.renderIndicators": true,
+    "editor.formatOnPaste": true,
+    "editor.links": true,
+    "editor.matchBrackets": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [80],
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true
+    },
+    "explorer.confirmDelete": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true
+    },
+    "search.followSymlinks": true,
+    "html.autoClosingTags": true,
+    "html.format.enable": true,
+    "html.format.endWithNewline": false,
+    "html.suggest.html5": true,
+    "html.suggest.ionic": true,
+    "json.format.enable": true,
+    "css.validate": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "merge-conflict.codeLens.enabled": true,
+    "merge-conflict.decorators.enabled": true,
+    "workbench.colorTheme": "Monokai Classic",
+    "workbench.iconTheme": "Monokai Classic Icons"
+}
